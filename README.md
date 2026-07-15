@@ -21,14 +21,13 @@ To run this project, you need a C compiler installed on your system:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com
-   cd YOUR_REPOSITORY_NAME
+   cd CodeAlpha_Calculator_using_C
    ```
 
 2. **Compile the program:**
    ```bash
-   gcc main.c -o calculator
+   gcc Calculator.c -o calculator
    ```
-   *(Note: Replace `main.c` with your actual file name if it is different).*
 
 3. **Execute the program:**
    * **Windows:**
