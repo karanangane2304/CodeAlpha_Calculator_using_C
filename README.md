@@ -20,7 +20,7 @@ To run this project, you need a C compiler installed on your system:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/karanangane2304/CodeAlpha_Calculator_using_C
    cd CodeAlpha_Calculator_using_C
    ```
 
